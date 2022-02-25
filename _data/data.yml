@@ -37,13 +37,25 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Open-mindedness
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Problem Solving
+      link: # dejar en blanco
+
+    - item: Work Ethic
+      link: # dejar en blanco
+
+    - item: Adaptability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
