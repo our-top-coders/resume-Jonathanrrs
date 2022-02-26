@@ -63,6 +63,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     I am currently a Software Engineering student at the University of Colima where I am about to graduate. I consider that the technology industry is constantly changing so I am always learning new things, in addition to the knowledge of the career I have developed skills to be a self-taught person.
+
     I think that apart from having technical knowledge about technology, it is very important to know how to work in a team, because the work and effort of your team will be reflected in the final result of the project, so having soft skills is essential.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -135,22 +136,40 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: Javascript
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: React
+      level: 80%
 
-    - name: C/C++
+    - name: React Native
+      level: 80%
+
+    - name: HTML
+      level: 80%
+
+    - name: CSS
+      level: 60%
+
+    - name: Linux
+      level: 60%
+
+    - name: GitHub
+      level: 60%
+
+    - name: Flutter
+      level: 20%
+
+    - name: PHP
+      level: 60%
+
+    - name: Kotlin
+      level: 40%
+
+    - name: Figma
+      level: 60%
+
+    - name: Heroku
       level: 40%
 
 # NO MODIFICAR
