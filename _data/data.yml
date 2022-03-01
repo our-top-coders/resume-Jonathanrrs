@@ -68,35 +68,17 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: Universidad de Colima
+    time: 2018 - 2022
     details: |
-      Master degree in Computer Engineering
+      Facultad de Telemática - Software Engineer
+
+  - degree: High School Degree
+    university: Universidad de Colima
+    time: 2015 - 2018
+    details: |
+      Bachillerato Técnico No. 1
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
