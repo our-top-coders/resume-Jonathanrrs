@@ -82,9 +82,9 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: React Native Developer
+    time: Feb 2022 - Present
+    company: Bright Coders, Mexico
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,15 +98,23 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Frontend Developer
+    time: Sep 2021 - Jan 2022
+    company: Secretaría de Salud, Colima, Mexico
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
+
+  - role: Full Stack Developer
+    time: Feb 2021 - Aug 2021
+    company: Federación del estudiante Colimense, Colima, Mexico
+    details: |
+      My role was to create the layout for the website in a responsive way, 
+      create the database logic with SQL, develop the frontend part with jQuery
+      and the backend with PHP and its Codeigniter framework.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
