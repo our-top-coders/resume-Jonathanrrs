@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Dreyfus  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -72,13 +69,13 @@ educationcomplete:
     university: Universidad de Colima
     time: 2018 - 2022
     details: |
-      Facultad de Telemática - Software Engineer
+      Facultad de Telemática - Software Engineer.
 
   - degree: High School Degree
     university: Universidad de Colima
     time: 2015 - 2018
     details: |
-      Bachillerato Técnico No. 1
+      Bachillerato Técnico No. 1.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -86,27 +83,17 @@ experiences:
     time: Feb 2022 - Present
     company: Bright Coders, Mexico
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Develop native applications with technologies such as Javascript and React Native, 
+      while implementing good practices, test-based development, tools for managing local 
+      and remote repositories. In addition to developing fundamental skills in software development 
+      such as teamwork and effective communication using an agile methodology.
 
   - role: Frontend Developer
     time: Sep 2021 - Jan 2022
     company: Secretaría de Salud, Colima, Mexico
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      My role was to design the views with Figma and use React Js for the 
+      frontend and work as a team with a bigger development team.
 
   - role: Full Stack Developer
     time: Feb 2021 - Aug 2021
@@ -154,6 +141,12 @@ skills:
       level: 80%
 
     - name: MongoDB
+      level: 60%
+
+    - name: Typescript
+      level: 60%
+
+    - name: TDD with Jest
       level: 60%
 
     - name: Flutter
