@@ -23,13 +23,45 @@
     .main-wrapper .upper-row {
         margin-bottom: 0;
     }
-
+   .skillset .level-name {
+      display: inline-block;
+      width: 50%;
+      float: left;
+      position: relative;
+      top: 1px;
+      text-align: center;
+     }
+    
+     .skillset .level-time {
+    display: inline-block;
+      width: 50%;
+      float: left;
+      position: relative;
+      top: 1px;
+      text-align: center;
+     }
 
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
-
+   .skillset .level-name {
+      display: inline-block;
+      width: 20%;
+      float: left;
+      position: relative;
+      top: 1px;
+      text-align: center;
+     }
+    
+     .skillset .level-time {
+    display: inline-block;
+      width: 20%;
+      float: left;
+      position: relative;
+      top: 1px;
+      text-align: center;
+     }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -60,7 +92,7 @@
      }
     
      .skillset .level-time {
-
+    display: inline-block;
       width: 20%;
       float: left;
       position: relative;
