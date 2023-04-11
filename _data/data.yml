@@ -115,7 +115,7 @@ skills:
   toolset:
     - name: Javascript
       level: 80%
-      name: Profiicient
+      level-name: Proficient
       time: 6 months
 
     - name: React
