@@ -254,6 +254,7 @@ p {
         background: $smoky-white;
     }
     .level-bar-inner {
+        width: 60%;
         height: 12px;
         background: lighten($bc-indigo, 15%);
     }
